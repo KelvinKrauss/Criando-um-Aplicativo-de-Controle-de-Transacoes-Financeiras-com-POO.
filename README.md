@@ -23,7 +23,6 @@ MENU PRINCIPAL DO BANCO
 
 
 
-Minha Experiência com o Projeto
 O projeto foi um desafio muito interessante e desafiador do curso, foi a primeira vez que desenvolvi um sistema completo de transações financeiras, simulando várias operações que bancos fazem no dia a dia, como criar contas, fazer depósitos, transferências e gerenciar investimentos.
 Durante o desenvolvimento, pude praticar muitos conceitos importantes de programação orientada a objetos em Java, como classes, métodos, encapsulamento e controle de fluxo. Também aprendi estruturas de dados para armazenar contas, investimentos e movimentações, além de trabalhar com entrada e saída no console para criar uma interface simples mas funcional.
 Um ponto que achei interessante foi implementar o histórico das operações com data e hora, que ajuda a visualizar todas as ações feitas na conta e realmente saber se o codigo esta funcionando ou não
